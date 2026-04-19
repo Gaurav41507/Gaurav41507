@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**Gaurav41507/Gaurav41507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React.js | Tailwind CSS | Axios | Tanstack Query 
+🚀 Passionate about building clean UI & scalable apps  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- React.js, JavaScript, HTML, CSS
+- Tailwind CSS
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🎯 Portfolio Website: https://portfolio-website-ebon-rho-42.vercel.app/
+-  Yoga Website : https://yoga-project-dun.vercel.app/
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/gaurav-sarkar-60299b289/
+- Email: gauravsarkar2002@gmail.com
