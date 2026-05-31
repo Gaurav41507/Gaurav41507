@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Building+Modern+Responsive+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+FullStack+AI+Developer;Frontend+Developer;React.js+Developer;Building+Modern+Responsive+Web+Apps" />
 </p>
 
 <p align="center">
